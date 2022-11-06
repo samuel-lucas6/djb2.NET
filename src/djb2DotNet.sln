@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "djb2DotNet", "djb2DotNet\djb2DotNet.csproj", "{46428AA6-F6AF-400B-BC71-E7D7C30580A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "djb2DotNetTests", "djb2DotNetTests\djb2DotNetTests.csproj", "{54CCF487-98F1-49FC-BC8A-1599EA820E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46428AA6-F6AF-400B-BC71-E7D7C30580A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46428AA6-F6AF-400B-BC71-E7D7C30580A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46428AA6-F6AF-400B-BC71-E7D7C30580A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46428AA6-F6AF-400B-BC71-E7D7C30580A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CCF487-98F1-49FC-BC8A-1599EA820E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CCF487-98F1-49FC-BC8A-1599EA820E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CCF487-98F1-49FC-BC8A-1599EA820E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CCF487-98F1-49FC-BC8A-1599EA820E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
